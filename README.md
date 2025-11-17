@@ -1,4 +1,4 @@
-# Intern Review App
+# SE2 Review App
 
 ## Running
 ```
